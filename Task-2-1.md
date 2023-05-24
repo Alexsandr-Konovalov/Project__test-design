@@ -161,3 +161,4 @@
     - я попадаю на главную страницу сайта  и взаимодействую с ним согласно правилам работы
 
 ***
+[Вернуться к содержанию проекта](https://github.com/Alexsandr-Konovalov/Project__test-design/blob/main/README.md)
