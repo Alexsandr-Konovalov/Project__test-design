@@ -12,7 +12,7 @@
 
 - Необходимо написать тестовые сценарии для модального окна авторизации на сайте [https://sbermarket.ru](https://sbermarket.ru)
 
-[Перейти к файлу]()
+[Перейти к файлу](https://github.com/Alexsandr-Konovalov/Project__test-design/blob/main/Task-2.md)
 
 ***
 
