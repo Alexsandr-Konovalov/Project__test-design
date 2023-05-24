@@ -20,7 +20,7 @@
 
 - На странице авторизации [https://www.saucedemo.com/](https://www.saucedemo.com/). Необходимо проверить два поля — "Username" и "Password", используя технику попарного тестирования
 
-[Перейти к файлу]()
+[Перейти к файлу](https://github.com/Alexsandr-Konovalov/Project__test-design/blob/main/Task-2-1.md)
 
 ***
 
