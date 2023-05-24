@@ -38,6 +38,6 @@
 ## Password for all users:
 - secret_sauce
 
-[Перейти к файлу]()
+[Перейти к файлу](https://github.com/Alexsandr-Konovalov/Project__test-design/blob/main/Task-3.md)
 
 ***
