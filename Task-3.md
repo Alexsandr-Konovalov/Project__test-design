@@ -120,3 +120,4 @@
 |          |                                        |                                                                | Нажмите кнопку "Login".                                                          |                                                                                |
 
 ***
+[Вернуться к содержанию проекта](https://github.com/Alexsandr-Konovalov/Project__test-design/blob/main/README.md)
