@@ -18,7 +18,7 @@
 
 ## Задача №2-1. Составление сценариев **использования** модального окна
 
-- На странице авторизации [https://www.saucedemo.com/](https://www.saucedemo.com/). Необходимо проверить два поля — "Username" и "Password", используя технику попарного тестирования
+- Необходимо написать сценарии **использования** для модального окна авторизации на сайте [https://sbermarket.ru](https://sbermarket.ru)
 
 [Перейти к файлу](https://github.com/Alexsandr-Konovalov/Project__test-design/blob/main/Task-2-1.md)
 
